@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="product">
+        <item>Cake</item>
+        <item>Chocolate</item>
+        <item>Ice-Cream</item>
+        <item>Donut</item>
+        <item>Cupcake</item>
+        <item>GingerBread</item>
+        <item>Kitkat</item>
+        <item>Jellybean</item>
+        <item>IcecreamSandwitch</item>
+    </string-array>
+</resources>
